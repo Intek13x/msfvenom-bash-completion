@@ -12,7 +12,9 @@ git clone https://github.com/nopernik/msfvenom-bc-generator.git
 cd msfvenom-bc-generator/ 
 ```
 - Now locate metasploit installation path 
-``` locate msfvenom ``` 
+``` 
+locate msfvenom 
+``` 
 - Take note of the path for file 
 ```
 /.../metasploit-framework/msfvenom
